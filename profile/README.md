@@ -52,4 +52,4 @@ Supported by **Edgewalker (CANTON) Co., Ltd**
 
 ---
 
-*Skyworks-Neo: Bridging Academia and Industry for Tomorrow's Computing*<img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/595476cf-f158-48ea-87e9-a8597591ee94" />
+*Skyworks-Neo: Bridging Academia and Industry for Tomorrow's Computing*
